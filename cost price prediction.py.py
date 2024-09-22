@@ -86,6 +86,53 @@ root= tk.Tk()
 root.title("Stock Price Prediction")
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 canvas1 = tk.Canvas(root, width = 500, height = 300)
 canvas1.pack()
 
